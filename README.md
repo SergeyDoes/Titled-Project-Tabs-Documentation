@@ -23,8 +23,7 @@ TPT is working with *Two Column Layout* Project tabs only. Layout can be set in 
 *Default* and *Locked* tabs are titled with 2 separate modes. Switch the lock state on the Project tab's *Lock* button:<br>
 
 <img width="456" height="229" alt="lock" src="https://github.com/user-attachments/assets/c90ea315-2488-4a59-9b1e-98de11d51db8" />
-<br><br>
-<br><br>
+<br><br><br>
 
 ### Settings window
 
