@@ -4,7 +4,7 @@
 
 <br><br>
 ## Overview
-Titled Project Tabs (TPT) is the Unity Editor extention asset that handles naming of multiple Project type editor tabs.
+Titled Project Tabs (TPT) is the Unity Editor extension asset that handles naming of multiple Project type editor tabs.
 
 <br><br>
 
