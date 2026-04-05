@@ -1,6 +1,6 @@
 # Titled Project Tabs Documentation
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/59d012d1-5a1c-47ff-be16-9aad5d56976f" />
+<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/59d012d1-5a1c-47ff-be16-9aad5d56976f" />
 
 <br><br>
 ## Overview
@@ -11,7 +11,7 @@ Titled Project Tabs (TPT) is the Unity Editor extention asset that handles namin
 
 ### Installation
 
-Import the package into Unity Project via Package Manager, or TPT Unity Asset Store page.
+Import the package into Unity Project via Package Manager, or [TPT Unity Asset Store page](https://assetstore.unity.com/packages/slug/361738).
 <br><br>
 ### Important notes
 
@@ -35,11 +35,66 @@ Use the shortcut to the Settings asset located at the *Top Menu/Window/Titled Pr
 
 TPT Settings window:<br>
 
-<img width="479" height="276" alt="image" src="https://github.com/user-attachments/assets/48dbd352-b84e-440f-afb7-f6065095e4f1" />
+<img width="240" height="138" alt="image" src="https://github.com/user-attachments/assets/48dbd352-b84e-440f-afb7-f6065095e4f1" />
+<br><br><br>
+
+### Titling modes overview and examples
+
+The following examples will show the Project tab of example folder: *Assets/TPT/Nested Folder/Nested Folder 2*
+<br><br><br>
+
+#### Fixed Mode
+
+Swap the initial "Project" line with fixed title.
+
+>**Settings**
+>Mode: Fixed<br>
+>Title: Fixed Name<br>
+><img width="512" height="226" alt="image" src="https://github.com/user-attachments/assets/f5d2fc55-14f3-4363-aca1-d1708d9cad37" />
+
 <br><br>
+
+#### Folder Only Mode
+
+Keep the active folder name as the tab title.
+
+>**Settings**
+>Mode: Folder Only<br>
+><img width="512" height="226" alt="image" src="https://github.com/user-attachments/assets/1d37e03a-8ff6-4997-b7bc-9802ef329dd4" />
+
 <br><br>
 
-### Titling modes overview
+#### Shrink Mode
 
-#### Fixed
+Shrink the active folder path to selected amount of symbols (if needed).
+Optional parameter *Use Prefix* alters the first 2 symbols with dots in case of shrinking.
 
+>Mode: Shrink<br>
+>Max Length: 20<br>
+>Use prefix: true<br>
+><img width="512" height="226" alt="image" src="https://github.com/user-attachments/assets/76f89f60-3656-43f9-b688-4113c6a7ec59" />
+
+<br><br>
+
+#### Wrap Mode
+
+Wraps the active folder path keeping the top-level folder and the active folder name in title.
+
+>Mode: Wrap<br>
+><img width="512" height="226" alt="image" src="https://github.com/user-attachments/assets/1fc0c3f5-24a1-4dd5-8c53-28c62f585e3c" />
+
+<br><br>
+
+#### Regex Mode
+
+Allows to use the custom Regex pattern to create the tab title. Invalid parameters will result in *[Invalid Regex Properties]* titles.
+
+>Mode: Regex<br>
+>Regex Pattern:Assets\/.*\/(.+)<br>
+>Replacement: A/.../$1<br>
+><img width="512" height="226" alt="image" src="https://github.com/user-attachments/assets/d2973c7d-afb4-4ad5-a936-016752417838" />
+
+<br><br>
+
+[GitHub docs](https://github.com/SergeyDoes/Titled-Project-Tabs-Documentation)<br>
+[SergeyDoes](https://github.com/SergeyDoes)
