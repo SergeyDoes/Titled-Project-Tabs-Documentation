@@ -95,5 +95,5 @@ Allows to use the custom Regex pattern to create the tab title. Invalid paramete
 
 <br><br>
 
-[GitHub docs](https://github.com/SergeyDoes/Titled-Project-Tabs-Documentation)<br>
-[SergeyDoes](https://github.com/SergeyDoes)
+[GitHub TPT Documentation & Issues repo](https://github.com/SergeyDoes/Titled-Project-Tabs-Documentation)<br>
+[SergeyDoes GitHub](https://github.com/SergeyDoes)
