@@ -47,7 +47,6 @@ TPT Settings window:<br>
 
 Swap the initial "Project" line with fixed title.
 
->**Settings**
 >Mode: **Fixed**<br>
 >Title: **Fixed Name**<br>
 ><br>
@@ -59,7 +58,6 @@ Swap the initial "Project" line with fixed title.
 
 Keep the active folder name as the tab title.
 
->**Settings**
 >Mode: **Folder Only**<br>
 ><br>
 ><img width="512" height="226" alt="image" src="https://github.com/user-attachments/assets/1d37e03a-8ff6-4997-b7bc-9802ef329dd4" />
@@ -104,4 +102,5 @@ Allows to use the custom Regex pattern to create the tab title. Invalid paramete
 ### Links
 
 [GitHub TPT Documentation & Issues repo](https://github.com/SergeyDoes/Titled-Project-Tabs-Documentation)<br>
-[SergeyDoes GitHub](https://github.com/SergeyDoes)
+[SergeyDoes GitHub](https://github.com/SergeyDoes)<br>
+<sergeydoesthat@gmail.com>
